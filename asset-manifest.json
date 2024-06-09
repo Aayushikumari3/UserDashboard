@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/UserDashboard/static/css/main.c0f26a41.css",
+    "main.js": "/UserDashboard/static/js/main.fd1073b6.js",
+    "index.html": "/UserDashboard/index.html",
+    "main.c0f26a41.css.map": "/UserDashboard/static/css/main.c0f26a41.css.map",
+    "main.fd1073b6.js.map": "/UserDashboard/static/js/main.fd1073b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0f26a41.css",
+    "static/js/main.fd1073b6.js"
+  ]
+}
